@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RESTfulSpringExperiment</string>
+
+</resources>
+
+<resources>
+<string name="app_name">Notes</string>
+
+<string name="label_note_id">Note Id</string>
+<string name="label_note_title">Note Title</string>
+</resources>

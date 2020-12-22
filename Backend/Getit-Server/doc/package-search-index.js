@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.iastate.edu.coms309.sb4.Getit.Server.controller"},{"l":"com.iastate.edu.coms309.sb4.Getit.Server.entity"},{"l":"com.iastate.edu.coms309.sb4.Getit.Server.repository"}]

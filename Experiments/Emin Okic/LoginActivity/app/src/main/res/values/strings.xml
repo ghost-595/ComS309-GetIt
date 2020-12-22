@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered">Not Registered</string>
+    <string name="register">Register</string>
+    <string name="please_confirm_password">Please Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login_again">Login?</string>
+</resources>

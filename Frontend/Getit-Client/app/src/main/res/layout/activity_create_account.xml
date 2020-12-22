@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backround"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".screens.entry.CreateAccount">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edittext_name"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:background="#ffffff"
+        android:hint="@string/name"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edittext_username"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:background="#ffffff"
+        android:hint="@string/username"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edittext_password"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:background="#ffffff"
+        android:hint="@string/password"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edittext_confirm_password"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:background="#ffffff"
+        android:hint="@string/confirm_password"/>
+
+    <Button
+        android:id="@+id/button_register"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="#2196F3"
+        android:text="@string/register"/>
+
+    <Button
+        android:id="@+id/nav_back_create_account"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="31dp"
+        android:layout_marginTop="20dp"
+        android:background="#2196F3"
+        android:text="Back"/>
+
+</LinearLayout>

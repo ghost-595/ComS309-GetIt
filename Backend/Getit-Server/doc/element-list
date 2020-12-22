@@ -1,0 +1,4 @@
+com.iastate.edu.coms309.sb4.Getit.Server
+com.iastate.edu.coms309.sb4.Getit.Server.controller
+com.iastate.edu.coms309.sb4.Getit.Server.entity
+com.iastate.edu.coms309.sb4.Getit.Server.repository
